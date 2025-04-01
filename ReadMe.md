@@ -46,7 +46,7 @@ The main dependencies used in this project are:
 ## Building and Running the Application
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/spring-ai-demo.git
+git clone https://github.com/subhajitghosh88/spring-ai-demo.git
 cd spring-ai-demo
 ```
 ### Set API Key in application.properties
