@@ -73,8 +73,8 @@ The main dependencies used in this project are:
 ## Building and Running the Application
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/spring-ai-demo.git
-cd spring-ai-demo
+git clone https://github.com/subhajitghosh88/springaidemo.git
+cd springaidemo
 ```
 ### Set API Key in application.properties
 In the src/main/resources/application.yml file, set your Gemini API key and model name:
