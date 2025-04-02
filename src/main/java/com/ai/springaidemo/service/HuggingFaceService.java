@@ -47,7 +47,7 @@ public class HuggingFaceService {
             HttpEntity<String> entity = new HttpEntity<>(requestBody, headers);
 
             ResponseEntity<byte[]> response = restTemplate.exchange(
-                    "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2",
+                    "https://api-inference.huggingface.co/models/openfree/flux-chatgpt-ghibli-lora",
                     HttpMethod.POST,
                     entity,
                     byte[].class
