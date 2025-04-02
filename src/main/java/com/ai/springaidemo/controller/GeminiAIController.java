@@ -18,7 +18,7 @@ import java.io.IOException;
 @RestController
 @RequestMapping("/api/gemini")
 @Tag(name = "Gemini API", description = "Endpoints for interacting with Gemini AI")
-public class GenAIController {
+public class GeminiAIController {
 
     @Autowired
     private GeminiAIService geminiAIService;
